@@ -1,0 +1,43 @@
+.show-info {
+  /*float: left;*/
+  margin: 20px;
+  border: 3px solid purple;
+  border-radius: 8px;
+}
+
+.dog-info {
+  /*float: right;*/
+  margin: 20px;
+  border: 3px solid purple;
+  border-radius: 8px;
+}
+
+p, li{
+  font-weight: bolder;
+  height: 40px;
+  text-shadow: 0 0 4px #fff;
+  padding: 4px;
+}
+
+.courage, .scooby, .jake {
+height: 800px;
+width: auto;
+}
+
+.courage {
+  background-image: url("/images/courage2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.scooby {
+  background-image: url("/images/scooby.jpg");
+}
+
+.jake {
+  background-image: url("/images/jake.jpg");
+}
+
+.fish {
+  background-color: orange;
+}
